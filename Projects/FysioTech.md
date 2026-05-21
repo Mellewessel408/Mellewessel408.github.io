@@ -47,9 +47,3 @@ Tijdens dit project heb ik ervaring opgedaan met:
 - Structureren van frontend en backend code
 - API communicatie tussen frontend en backend
 - Het bouwen van een gebruiksvriendelijke interface
-
-## Links
-
-[GitHub Repository](https://github.com/Mellewessel408)
-
-```
