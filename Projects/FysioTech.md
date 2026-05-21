@@ -1,15 +1,17 @@
-```md
 # Fysio-Tech
 
-Fysio-Tech is een prototype fysiotherapie applicatie gericht op het verbeteren van patiëntbeheer en slimme monitoring binnen een moderne praktijkomgeving.
+Fysio-Tech is een prototype fysiotherapie applicatie ontwikkeld om fysiotherapeuten op een toegankelijke manier kennis te laten maken met moderne technologie binnen de zorg, met speciale focus op het gebruik van smartwatches.
 
-Het project combineert een Flask backend met een interactieve frontend gebouwd in HTML, CSS en JavaScript. Daarnaast maakt de applicatie gebruik van SQL Server voor dataopslag en realtime verwerking van gebruikersgegevens.
+De applicatie helpt gebruikers inzicht te krijgen in hoe wearable technologie kan worden ingezet voor monitoring, begeleiding en ondersteuning van patiënten binnen een fysiotherapiepraktijk.
+
+Het project combineert een Python backend met een frontend ontwikkeld in React. Daarnaast maakt de applicatie gebruik van een SQL-database voor het opslaan en verwerken van gebruikers- en voorbeeldcasusgegevens.
 
 ## Features
 
 - Gebruikerslogin en authenticatie
 - Dashboard met overzicht van gegevens
 - Smartwatch integratie concept
+- casusvragen 
 - Patiënt- en sessiebeheer
 - Moderne responsive interface
 - Database koppeling met SQL Server
