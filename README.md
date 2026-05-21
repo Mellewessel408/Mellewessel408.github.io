@@ -11,7 +11,7 @@ Momenteel op zoek naar een meeloopstage.
 - Git
 
 ## Projecten
-[FysioTech](projects/fysio-tech.md)
+[FysioTech](projects/FysioTech.md)
 
 
 ## Links
