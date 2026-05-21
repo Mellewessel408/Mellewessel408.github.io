@@ -13,7 +13,7 @@ Momenteel op zoek naar een meeloopstage.
 ## Projecten
 
 ### School project
-[bekijk project](https://github.com/Mellewessel408/DEDS_portfolio)
+[bekijk project](https://github.com/Mellewessel408/Aucoustic-Intelligence)
 -
 
 ## Links
