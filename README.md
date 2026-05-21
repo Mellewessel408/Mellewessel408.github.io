@@ -9,7 +9,7 @@ Mijn interesses liggen voornamelijk bij backend development, webapplicaties en A
 - Git
 
 ## Projecten
-[FysioTech](Projects/FysioTech.md)
+- [FysioTech](Projects/FysioTech.md)
 
 
 ## Links
