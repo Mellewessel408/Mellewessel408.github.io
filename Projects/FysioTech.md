@@ -33,10 +33,10 @@ Het project combineert een Python backend met een frontend ontwikkeld in React. 
 ### Dashboard
 ![Dashboard](../assets/FysioTech/Screenshot%202026-05-21%20140815.png)
 
-### Smartwatch integratie
+### Casus starten
 ![Smartwatch](../assets/FysioTech/Screenshot%202026-05-21%20140824.png)
 
-### Monitoring systeem
+### Casus informatie
 ![Monitoring](../assets/FysioTech/Screenshot%202026-05-21%20140841.png)
 
 ## Wat ik heb geleerd
