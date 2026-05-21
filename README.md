@@ -1,8 +1,6 @@
-Melle Wessel
-3e jaars Software Engineering student
+Hoi, ik ben Melle, een derdejaars Software Engineering student aan De Haagse Hogeschool. Momenteel ben ik op zoek naar een meeloopstage waarin ik mijn technische vaardigheden verder kan ontwikkelen en praktijkervaring kan opdoen binnen softwareontwikkeling.
 
-Geïnteresseerd in backend development, webapps en AI.
-Momenteel op zoek naar een meeloopstage.
+Mijn interesses liggen voornamelijk bij backend development, webapplicaties en AI. Ik werk graag aan praktische projecten en vind het interessant om nieuwe technologieën te ontdekken en toe te passen.
 ## Skills
 - JavaScript
 - React
@@ -11,7 +9,7 @@ Momenteel op zoek naar een meeloopstage.
 - Git
 
 ## Projecten
-[FysioTech](projects/FysioTech.md)
+[FysioTech](Projects/FysioTech.md)
 
 
 ## Links
