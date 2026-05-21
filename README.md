@@ -18,5 +18,5 @@ Momenteel op zoek naar een meeloopstage.
 
 ## Links
 - Portfolio Website: [link]
-- LinkedIn: [https://www.linkedin.com/in/melle-wessel-7a2657361/]
+- [LinkedIn](https://www.linkedin.com/in/melle-wessel-7a2657361/)
 - [Bekijk mijn CV](./Mellewessel-CV.pdf)
