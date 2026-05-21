@@ -11,8 +11,9 @@ Momenteel op zoek naar een meeloopstage.
 - Git
 
 ## Projecten
--
--
+
+### School project
+[bekijk project](https://github.com/Mellewessel408/DEDS_portfolio)
 -
 
 ## Links
