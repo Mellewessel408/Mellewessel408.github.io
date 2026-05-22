@@ -11,18 +11,15 @@ Het project combineert een Python backend met een frontend ontwikkeld in React. 
 - Gebruikerslogin en authenticatie
 - Dashboard met overzicht van gegevens
 - Smartwatch integratie concept
-- casusvragen 
-- Patiënt- en sessiebeheer
+- Casusvragen 
 - Moderne responsive interface
 - Database koppeling met SQL Server
 
 ## Tech Stack
 
 - Python
-- Flask
+- React
 - SQL Server
-- HTML
-- CSS
 - JavaScript
 
 ## Screenshots
@@ -42,7 +39,6 @@ Het project combineert een Python backend met een frontend ontwikkeld in React. 
 ## Wat ik heb geleerd
 
 Tijdens dit project heb ik ervaring opgedaan met:
-- Backend development met Flask
 - Werken met databases en SQL queries
 - Structureren van frontend en backend code
 - API communicatie tussen frontend en backend
